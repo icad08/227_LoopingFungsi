@@ -2,13 +2,13 @@
 using namespace std;
 
 string nama;
-int bAdidas, bPuma , bNike, bCommpass, bNB;
+int nAdidas, nPuma , nNike, nCommpass, nNB;
 int hAdibas = 300,  hNB = 250, hPuma = 150, hNike = 350;
 
 void input()
-{
+
 cout  << "Masukkan jumlah adidas = ";
-cin >>   nAdidas;
+cin >> nAdidas;
 
 cout << "masukkan jumlah puma = ";
 cin >> nPuma 
@@ -21,7 +21,7 @@ cin >> nCompass
 
 cout << "masukkan jumlah nike  = ";
 cin >>  nNike;
-}
+
 
 
 int totalHarga()

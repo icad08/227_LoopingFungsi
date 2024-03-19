@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+#include <ctime>
 
 int main() {
     int bilangan;
